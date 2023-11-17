@@ -1,0 +1,15 @@
+{
+  "name": "uahumanreadable",
+  "version": "1.0.0",
+  "description": "convert a user agent string to a human readbale string",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "author": {
+    "name": "Glen Hughes"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "ua-parser-js": "^1.0.37"
+  }
+}
